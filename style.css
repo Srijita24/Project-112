@@ -1,0 +1,47 @@
+body
+{
+  color: rgb(255, 255, 255);
+  background: #59028b;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(238, 234, 26);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name
+{
+  color: rgb(7, 206, 241);
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+
+label {
+  font-size: 14px;
+  color: rgb(8, 12, 241);
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 800;
+}
